@@ -62,9 +62,6 @@
 </span>
 <br>
 
-## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=akashdeep023&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/csemudabbir)<br><br>
-
 <!--
 ---
 Major Project
@@ -142,12 +139,3 @@ Github link 	-> https://github.com/akashdeep023/Card_Project_Js (Public Complete
 <a href="https://github.com/csemudabbir">
   <img src="https://imgur.com/rilHVxA.png"/>
 </a>
-<!-- <img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" style="margin:5px" /> -->
-<!-- <img src="https://img.shields.io/badge/-C%23-black?style=for-the-badge&logo=c-sharp&logoColor=green" style="margin:5px" /> -->
-<!-- <img src="http://img.shields.io/badge/-lua-black?style=for-the-badge&logo=lua&logoColor=blue" style="margin:5px" /> -->
-<!-- <img src="http://img.shields.io/badge/-c-black?style=for-the-badge&logo=c&logoColor=white" style="margin:5px" /> -->
-
-
-
-
-
